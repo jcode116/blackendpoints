@@ -17,7 +17,6 @@
       <!-- Add Business Link -->
       <router-link to="/addbiz" class="nav-link">Add Business</router-link>
       <router-link to="/blog" class="nav-link">Blog</router-link>
-      <router-link to="/login" class="nav-link">Login</router-link>
     </nav>
   </header>
 </template>
