@@ -11,9 +11,7 @@
             <h2>{{ biz.name }}</h2>
           </router-link>
           <!-- Image -->
-          <img
-            v-if="biz.image"
-            :src="biz.image"
+          <img src="https://placehold.co/600x400/png"
             alt="Business Image"
             class="business-image"
           />
